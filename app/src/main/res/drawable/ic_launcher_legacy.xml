@@ -19,12 +19,12 @@
     <!-- Phone buttons -->
     <circle
         android:fillColor="#00FF00"
-        android:cx="24"
-        android:cy="20"
-        android:r="1"/>
+        cx="24"
+        cy="20"
+        r="1"/>
     <circle
         android:fillColor="#00FF00"
-        android:cx="24"
-        android:cy="28"
-        android:r="1"/>
+        cx="24"
+        cy="28"
+        r="1"/>
 </vector>
