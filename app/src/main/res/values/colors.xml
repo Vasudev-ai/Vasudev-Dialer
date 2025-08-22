@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="neon_green">#FF00FF41</color>
+    <color name="light_green">#FF66FF66</color>
+    <color name="dark_green">#FF003D0F</color>
+    <color name="darker_green">#FF001A06</color>
+    <color name="red_neon">#FFFF0040</color>
+    <color name="dark_red">#FF3D0010</color>
+    <color name="dark_gray">#FF1A1A1A</color>
+    <color name="darker_gray">#FF0D0D0D</color>
+    <color name="matrix_green">#FF00FF00</color>
+    <color name="terminal_green">#FF39FF14</color>
+</resources>
