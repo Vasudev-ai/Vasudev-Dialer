@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- Black background -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M0,0h48v48h-48z"/>
+    <!-- Neon green phone icon -->
+    <path
+        android:fillColor="#00FF00"
+        android:pathData="M24,12c-6.6,0 -12,5.4 -12,12s5.4,12 12,12s12,-5.4 12,-12S30.6,12 24,12zM30,32H18c-0.6,0 -1,-0.4 -1,-1V17c0,-0.6 0.4,-1 1,-1h12c0.6,0 1,0.4 1,1v14C31,31.6 30.6,32 30,32z"/>
+    <!-- Phone screen -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M18,17h12v14H18z"/>
+    <!-- Phone buttons -->
+    <circle
+        android:fillColor="#00FF00"
+        android:cx="24"
+        android:cy="20"
+        android:r="1"/>
+    <circle
+        android:fillColor="#00FF00"
+        android:cx="24"
+        android:cy="28"
+        android:r="1"/>
+</vector>
